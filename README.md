@@ -1,9 +1,6 @@
 # TodoListReactNative
 * cd server
-* npm install
-* cd ..
-* cd server
-* npm install
+* composer update
 * (on server) php -S localhost:8000 -t public
 * make sure your apache server is running
 * cd ..
