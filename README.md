@@ -1,5 +1,5 @@
 # TodoListReactNative
-cd server
+cd server\n
 npm install
 cd ..
 cd server
